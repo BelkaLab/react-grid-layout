@@ -1,8 +1,10 @@
 # React-Grid-Layout
 
-[![travis build](https://travis-ci.org/STRML/react-grid-layout.svg?branch=master)](https://travis-ci.org/STRML/react-grid-layout)
-[![npm package](https://img.shields.io/npm/v/react-grid-layout.svg?style=flat-square)](https://www.npmjs.org/package/react-grid-layout)
-[![npm downloads](https://img.shields.io/npm/dt/react-grid-layout.svg?maxAge=2592000)]()
+### ATTN:
+This is a temporary fork, waiting for the official lib to either merge [PR #534](https://github.com/STRML/react-grid-layout/pull/534) or to implement STH like [Issue #157](https://github.com/STRML/react-grid-layout/issues/157).
+It will be deprecated as soon as these are fixed. DO NOT USE, DO NOT DEPEND ON THIS. I warned you.
+
+========
 
 React-Grid-Layout is a grid layout system much like [Packery](http://packery.metafizzy.co/) or
 [Gridster](http://gridster.net), for React.
